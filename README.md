@@ -1,5 +1,5 @@
 ## Seja bem-vindo ao GitHub de Lucas Gabriel
-
+![Bem-vindo ao GitHub do Lucas Gabriel](./imagemwakada.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
