@@ -1,16 +1,36 @@
-## Seja bem-vindo ao GitHub de Lucas Gabriel
-![Bem-vindo ao GitHub do Lucas Gabriel](./imagemwakada.png)
+<img src="./imagemwakada.png" alt="Bem-vindo ao GitHub do Lucas Gabriel" width="800">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+# Bem-vindo ao GitHub do Lucas Gabriel! 👋
+
+## Sobre mim
+- 🎓 **Estudante de:** Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de Santa Catarina (IFSC).
+- 📚 **Fase Atual:** Estou na 2ª fase do curso, explorando conceitos fundamentais de programação, banco de dados e desenvolvimento web.
+- 🌟 **Projetos em andamento:** Desenvolvimento web e automação
+- 🤝 **Colaboração:** Aberto para projetos de impacto e aprendizado
+- ⚡ **Fato divertido:** Sou fascinado por tecnologias futurísticas e pelo mundo Marvel (Wakanda Forever!).
+
+
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## Redes Sociais 🌐
+Conecte-se comigo:
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasgdsilva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
-##
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgdsilva&show_icons=true&theme=chartreuse-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=chartreuse-dark)
+
+---
+
+
+
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgdsilva&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=chartreuse-dark)
+
+---
+![Snake animation](https://github.com/lucasgdsilva/lucasgdsilva/blob/output/github-contribution-grid-snake.svg)
