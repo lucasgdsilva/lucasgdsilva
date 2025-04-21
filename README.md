@@ -1,4 +1,4 @@
-<img src="./imagemwakada.png" alt="Bem-vindo ao GitHub do Lucas Gabriel" width="800">
+<img src="./imagemwakada.png" alt="Bem-vindo ao GitHub do Lucas Gabriel" width="700">
 
 # Bem-vindo ao GitHub do Lucas Gabriel! 👋
 
