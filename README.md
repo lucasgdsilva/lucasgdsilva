@@ -10,6 +10,7 @@
 - ⚡ **Fato divertido:** Sou fascinado por tecnologias futurísticas e pelo mundo Marvel (Wakanda Forever!).
 
 
+## Tecnologias e Ferramentas 💻
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,4 +34,4 @@ Conecte-se comigo:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=chartreuse-dark)
 
 ---
-![Snake animation](https://github.com/lucasgdsilva/lucasgdsilva/blob/output/github-contribution-grid-snake.svg)
+
