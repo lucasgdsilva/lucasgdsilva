@@ -1,0 +1,23 @@
+name: Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza diariamente
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        with:
+          github_user_name: lucasgdsilva
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - name: Commit e Push
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Atualizando animação da cobrinha"
+          add: "dist/github-contribution-grid-snake.svg"
