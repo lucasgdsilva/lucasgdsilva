@@ -1,9 +1,5 @@
-## Hi there 👋
+## Seja bem-vindo ao GitHub de Lucas Gabriel
 
-<!--
-**lucasgdsilva/lucasgdsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
+##
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgdsilva&show_icons=true&theme=chartreuse-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=chartreuse-dark)
