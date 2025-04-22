@@ -32,7 +32,7 @@ Conecte-se comigo:
 
 
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgdsilva&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=dark&bg_color=000000&title_color=ff9900&text_color=ffffff&icon_color=00ffcc)
 
 ---
 
