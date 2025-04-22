@@ -45,6 +45,7 @@ Conecte-se comigo:
 
 
 ##
-![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=Virtual_Tour&theme=chartreuse-dark)
-![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=ADS_POO_2F&theme=chartreuse-dark)
+## 🔗 Repositórios Destacados
 
+[![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=Virtual_Tour&theme=chartreuse-dark)](https://github.com/lucasgdsilva/Virtual_Tour)
+[![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=ADS_POO_2F&theme=chartreuse-dark)](https://github.com/lucasgdsilva/ADS_POO_2F)
