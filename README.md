@@ -47,4 +47,4 @@ Conecte-se comigo:
 ##
 ![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=Virtual_Tour&theme=chartreuse-dark)
 ![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=ADS_POO_2F&theme=chartreuse-dark)
-![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=exercicio-paginas-multiplas-grupo-05-atividade-index&theme=chartreuse-dark)
+![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=sergio-prolo-class/exercicio-paginas-multiplas-grupo-05-atividade-index&theme=chartreuse-dark)
