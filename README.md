@@ -5,8 +5,8 @@
 ## Sobre mim
 - 🎓 **Estudante de:** Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de Santa Catarina (IFSC).
 - 📚 **Fase Atual:** Estou na 2ª fase do curso, explorando conceitos fundamentais de programação, banco de dados e desenvolvimento web.
-- 🌟 **Projetos em andamento:** Desenvolvimento web e automação
-- 🤝 **Colaboração:** Aberto para projetos de impacto e aprendizado
+- 🌟 **Projetos em andamento:** Desenvolvimento web e automação.
+- 🤝 **Colaboração:** Aberto para projetos de impacto e aprendizado.
 - ⚡ **Fato divertido:** Sou fascinado por tecnologias futurísticas e pelo mundo Marvel (Wakanda Forever!).
 
 
@@ -47,6 +47,6 @@ Conecte-se comigo:
 ##
 ## 🔗 Repositórios Destacados
 
-[![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=Virtual_Tour&theme=chartreuse-dark)](https://github.com/lucasgdsilva/Virtual_Tour)
 [![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=ADS_POO_2F&theme=chartreuse-dark)](https://github.com/lucasgdsilva/ADS_POO_2F)
 [![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=ADS_FRONT_2F&theme=chartreuse-dark)](https://github.com/lucasgdsilva/ADS_FRONT_2F)
+[![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=Virtual_Tour&theme=chartreuse-dark)](https://github.com/lucasgdsilva/Virtual_Tour)
