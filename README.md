@@ -32,7 +32,8 @@ Conecte-se comigo:
 
 
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgdsilva&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=dark&bg_color=000000&title_color=ff9900&text_color=ffffff&icon_color=00ffcc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=chartreuse-dark)
+
 
 ---
 
@@ -41,3 +42,9 @@ Conecte-se comigo:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorlcrd/victorlcrd/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victorlcrd/victorlcrd/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+##
+![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=Virtual_Tour&theme=chartreuse-dark)
+![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=ADS_POO_2F&theme=chartreuse-dark)
+![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=lucasgdsilva&repo=exercicio-paginas-multiplas-grupo-05-atividade-index&theme=chartreuse-dark)
