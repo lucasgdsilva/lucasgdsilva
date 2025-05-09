@@ -32,7 +32,8 @@ Conecte-se comigo:
 
 
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgdsilva&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=chartreuse-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasgdsilva&theme=chartreuse-dark)
+
 
 
 
