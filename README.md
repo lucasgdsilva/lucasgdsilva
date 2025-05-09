@@ -35,6 +35,7 @@ Conecte-se comigo:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgdsilva&layout=compact&theme=chartreuse-dark)
 
 
+
 ---
 
 <picture align="center">     
